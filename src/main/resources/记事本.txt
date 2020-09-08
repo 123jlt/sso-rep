@@ -1,0 +1,25 @@
+github 邮箱/123jlt   Jianglongtao123
+gitlab jianglongtao @12345678  // 邮箱  jlt123...
+mysql root 123456
+postman  邮箱/jlt   jlt123...
+
+
+安全编程规范3.1-Java：
+http://ilearning.huawei.com/next/home.html#/examinationInfo?examinationId=34736
+通用编码规范-Java：
+http://ilearning.huawei.com/next/home.html#/examinationInfo?examinationId=34006
+
+
+http://j19h691179.iok.las/api/ams/oauth/callBack
+
+
+clientid：w4KXugTkImi1HkfbvXp3cIb8kcBQiZdl
+clientsercet：Qnu645LJg7aX0dk7u2kTvwJaT4xlDu04eOVIk9eanxWsfpGSUYCAgeiAIS1Qchd1
+
+
+
+微信：https://open.weixin.qq.com/connect/qrconnect?appid=APPID&redirect_uri=REDIRECT_URI&response_type=code&scope=SCOPE&state=STATE#wechat_redirect
+
+
+
+页面 ：https://huawei.bccastle.com:443/api/ams/oauth/authorize?response_type=code&client_id=w4KXugTkImi1HkfbvXp3cIb8kcBQiZdl&redirect_uri=https://www.ictxuetang.com/

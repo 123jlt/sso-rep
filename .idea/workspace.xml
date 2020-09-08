@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4099feb2-a980-4d43-8d86-66b06c295f7c" name="Default Changelist" comment="提交SSO">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/config/IDaaSConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/controller/IDaaSController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/utils/EmptyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/utils/GenerateToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/utils/HttpClientUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/utils/RedisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/utils/URLEncodeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/UserApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/config/IDaaSConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/controller/IDaaSController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/entity/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/EmptyUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/GenerateToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/HttpClientUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/HttpClientUtils$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/HttpClientUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/RedisUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/URLEncodeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuetang_sso.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="176" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\idea\xuetang_sso\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/soft/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.3\conf\settings_old.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fNyGzeJYBcLZOCEzzy7VUXUvZz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\utils" />
+      <recent name="D:\idea\xuetang_sso\src\main\resources" />
+      <recent name="D:\idea\xuetang_sso\src\main\java\sso\mapper\xml" />
+      <recent name="D:\idea\xuetang_sso\src\main\java\sso\utils" />
+      <recent name="D:\idea\xuetang_sso\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.huawei.sso.utils" />
+      <recent name="sso.utils" />
+      <recent name="sso.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\mapper" />
+      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\mapper\xml" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UserApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huawei.sso.UserApplication" />
+      <module name="xuetang_sso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4099feb2-a980-4d43-8d86-66b06c295f7c" name="Default Changelist" comment="" />
+      <created>1596072752843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596072752843</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交SSO" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交SSO" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#HTTP_Proxy" timestamp="1596102809032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#HTTP_Proxy/0.0.1280.680@0.0.1280.680" timestamp="1596102809032" />
+    <state x="233" y="0" key="#Project_Structure" timestamp="1596762460636">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1596762460636" />
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1596088856353">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1596088856353" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596104468815">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596104468815" />
+    <state x="544" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596102248999">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="544" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1596102248999" />
+    <state x="272" y="28" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1596185655673">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="272" y="28" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.680@0.0.1280.680" timestamp="1596185655673" />
+    <state x="628" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1596466924371">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="628" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1596466924371" />
+    <state x="361" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596072983147">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1596072983147" />
+    <state x="425" y="200" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596466901627">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="425" y="200" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1596466901627" />
+    <state x="333" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596342212918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="333" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1596342212918" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596469084335">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1596469084335" />
+    <state x="397" y="202" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596185337243">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="397" y="202" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1596185337243" />
+    <state x="566" y="0" key="CommitChangelistDialog2" timestamp="1599551995737">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="566" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599551995737" />
+    <state x="122" y="56" width="1024" height="570" key="DiffContextDialog" timestamp="1596767661937">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="122" y="56" width="1024" height="570" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1596767661937" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1598407569234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598407569234" />
+    <state width="1237" height="410" key="GridCell.Tab.0.bottom" timestamp="1596780327947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="410" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596780327947" />
+    <state width="1237" height="410" key="GridCell.Tab.0.center" timestamp="1596780327947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="410" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596780327947" />
+    <state width="1237" height="410" key="GridCell.Tab.0.left" timestamp="1596780327947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="410" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596780327947" />
+    <state width="1237" height="410" key="GridCell.Tab.0.right" timestamp="1596780327947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="410" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596780327947" />
+    <state width="1237" height="410" key="GridCell.Tab.1.bottom" timestamp="1596780327947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="410" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596780327947" />
+    <state width="1237" height="410" key="GridCell.Tab.1.center" timestamp="1596780327947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="410" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596780327947" />
+    <state width="1237" height="410" key="GridCell.Tab.1.left" timestamp="1596780327947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="410" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596780327947" />
+    <state width="1237" height="410" key="GridCell.Tab.1.right" timestamp="1596780327947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="410" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596780327947" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1596342100439">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1596342100439" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1598407574695">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598407574695" />
+    <state x="362" y="82" width="540" height="524" key="StructurePopup" timestamp="1596119632619">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="362" y="82" width="540" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1596119632619" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1599551854614">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599551854614" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1596442429819">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1596442429819" />
+    <state x="439" y="119" key="chooseDestDirectoryDialog" timestamp="1596339990079">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="439" y="119" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1596339990079" />
+    <state x="109" y="59" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596767661937">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="109" y="59" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1596767661937" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1599537139283">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1599537139283" />
+    <state x="215" y="32" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1596102712223">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="215" y="32" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1280.680@0.0.1280.680" timestamp="1596102712223" />
+    <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596763814402">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1596763814402" />
+    <state x="28" y="36" key="new project wizard" timestamp="1596089532600">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="36" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1596089532600" />
+    <state x="343" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1596421817856">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="343" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1596421817856" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1596439772109">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1596439772109" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1596762226020">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1596762226020" />
+    <state x="471" y="132" key="svn.repositoryBrowser" timestamp="1596764265710">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="132" key="svn.repositoryBrowser/0.0.1280.680@0.0.1280.680" timestamp="1596764265710" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="result.value" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/xuetang_sso$UserApplication.ic" NAME="UserApplication Coverage Results" MODIFIED="1596502868922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sso.*</FILTER>
+    </SUITE>
+  </component>
+</project>

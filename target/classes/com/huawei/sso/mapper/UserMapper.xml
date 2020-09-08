@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.huawei.sso.mapper.UserMapper">
+    <resultMap id="BaseResultMap" type="com.huawei.sso.entity.User" >
+        <id column="id" property="id"/>
+        <result column="userId" property="user_id" jdbcType="VARCHAR" />
+        <result column="username" property="username" jdbcType="VARCHAR" />
+        <result column="name" property="name" jdbcType="VARCHAR" />
+        <result column="email" property="email" jdbcType="VARCHAR" />
+        <result column="mobile" property="mobile"/>
+        <result column="account" property="account" jdbcType="VARCHAR" />
+    </resultMap>
+
+    <select id="getUserId" resultMap="BaseResultMap">
+    select * from sso_user
+    <trim prefix="get" prefixOverrides="and | or">
+        <if test="id != null">
+            and id = #{id}
+        </if>
+    </trim>
+    </select>
+
+    <insert id="getAddUser" useGeneratedKeys="true" keyProperty="id" keyColumn="id" parameterType="com.huawei.sso.entity.User">
+        INSERT INTO sso_user(user_id,username,name,email,mobile,account)
+        VALUES(#{userId},#{username},#{name},#{email},#{mobile},#{account})
+    </insert>
+
+</mapper>

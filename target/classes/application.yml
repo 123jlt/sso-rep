@@ -1,0 +1,10 @@
+spring:
+  port=8080:
+  application:
+    name: xucheng_sso
+
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://127.0.0.1:3306/ict_sso?serverTimezone=GMT%2B8&useSSL=false&useUnicode=true&characterEncoding=UTF-8
+    driver-class-name: com.mysql.jdbc.Driver
