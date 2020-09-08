@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4099feb2-a980-4d43-8d86-66b06c295f7c" name="Default Changelist" comment="提交SSO">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/UserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/config/IDaaSConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/controller/IDaaSController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/entity/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/utils/EmptyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/utils/GenerateToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/utils/HttpClientUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/utils/RedisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/sso/utils/URLEncodeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/UserApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/config/IDaaSConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/controller/IDaaSController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/entity/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/EmptyUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/GenerateToken.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/HttpClientUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/HttpClientUtils$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/HttpClientUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/RedisUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/huawei/sso/utils/URLEncodeUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xuetang_sso.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,25 +55,25 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\utils" />
-      <recent name="D:\idea\xuetang_sso\src\main\resources" />
-      <recent name="D:\idea\xuetang_sso\src\main\java\sso\mapper\xml" />
-      <recent name="D:\idea\xuetang_sso\src\main\java\sso\utils" />
-      <recent name="D:\idea\xuetang_sso\src\main\java" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\mapper" />
+      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\mapper\xml" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.huawei.sso.utils" />
       <recent name="sso.utils" />
       <recent name="sso.controller" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\mapper" />
-      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\mapper\xml" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\xuetang_sso\src\main\resources" />
+      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\utils" />
+      <recent name="D:\idea\xuetang_sso\src\main\java\sso\mapper\xml" />
+      <recent name="D:\idea\xuetang_sso\src\main\java\sso\utils" />
+      <recent name="D:\idea\xuetang_sso\src\main\java" />
     </key>
   </component>
   <component name="RunManager">
@@ -162,6 +119,14 @@
       <option name="presentableId" value="Default" />
       <updated>1596072752843</updated>
     </task>
+    <task id="LOCAL-00001" summary="提交SSO">
+      <created>1599552054020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599552054020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,10 +150,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596104468815" />
-    <state x="544" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596102248999">
+    <state x="544" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599552966805">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="544" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1596102248999" />
+    <state x="544" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1599552966805" />
     <state x="272" y="28" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1596185655673">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -217,10 +182,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="397" y="202" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1596185337243" />
-    <state x="566" y="0" key="CommitChangelistDialog2" timestamp="1599551995737">
+    <state x="566" y="0" key="CommitChangelistDialog2" timestamp="1599552936360">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="566" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599551995737" />
+    <state x="566" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599552936360" />
     <state x="122" y="56" width="1024" height="570" key="DiffContextDialog" timestamp="1596767661937">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -265,18 +230,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1596342100439" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1598407574695">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1599552576809">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598407574695" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599552576809" />
     <state x="362" y="82" width="540" height="524" key="StructurePopup" timestamp="1596119632619">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="362" y="82" width="540" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1596119632619" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1599551854614">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1599552120586">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599551854614" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599552120586" />
     <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1596442429819">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -289,10 +254,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="109" y="59" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1596767661937" />
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1599537139283">
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1599552887023">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1599537139283" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1599552887023" />
     <state x="215" y="32" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1596102712223">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -301,6 +266,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1596763814402" />
+    <state x="430" y="132" key="git4idea.merge.GitPullDialog" timestamp="1599552609390">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="430" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1599552609390" />
     <state x="28" y="36" key="new project wizard" timestamp="1596089532600">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
