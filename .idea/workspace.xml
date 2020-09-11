@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4099feb2-a980-4d43-8d86-66b06c295f7c" name="Default Changelist" comment="">
+    <list default="true" id="4099feb2-a980-4d43-8d86-66b06c295f7c" name="Default Changelist" comment="提交SSO">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/util/utils/youfaterlei/thisoneyici/service.rar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -50,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../itc-sso1" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -59,22 +61,24 @@
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\xuetang_sso\src\main\resources\util\utils\youfaterlei\thisoneyici" />
       <recent name="D:\idea\xuetang_sso\src\main\resources" />
-      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\utils" />
-      <recent name="D:\idea\xuetang_sso\src\main\java\sso\mapper\xml" />
-      <recent name="D:\idea\xuetang_sso\src\main\java\sso\utils" />
-      <recent name="D:\idea\xuetang_sso\src\main\java" />
+      <recent name="D:\idea\xuetang_sso\src\main\resources\util\utils" />
+      <recent name="D:\idea\xuetang_sso\src\main\resources\util\youfaterlei\thisoneyici" />
+      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.huawei.sso.utils" />
       <recent name="sso.utils" />
       <recent name="sso.controller" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\idea\xuetang_sso\src\main\resources\util\youfaterlei\thisoneyici" />
-      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\mapper" />
-      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\mapper\xml" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\xuetang_sso\src\main\resources" />
+      <recent name="D:\idea\xuetang_sso\src\main\java\com\huawei\sso\utils" />
+      <recent name="D:\idea\xuetang_sso\src\main\java\sso\mapper\xml" />
+      <recent name="D:\idea\xuetang_sso\src\main\java\sso\utils" />
+      <recent name="D:\idea\xuetang_sso\src\main\java" />
     </key>
   </component>
   <component name="RunManager">
@@ -158,10 +162,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596104468815" />
-    <state x="544" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599552966805">
+    <state x="544" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599807562701">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="544" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1599552966805" />
+    <state x="544" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1599807562701" />
     <state x="272" y="28" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1596185655673">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -174,10 +178,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="361" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1596072983147" />
-    <state x="425" y="200" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596466901627">
+    <state x="425" y="200" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599554116059">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="425" y="200" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1596466901627" />
+    <state x="425" y="200" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1599554116059" />
     <state x="333" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596342212918">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -190,18 +194,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="397" y="202" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1596185337243" />
-    <state x="566" y="0" key="CommitChangelistDialog2" timestamp="1599553470016">
+    <state x="472" y="0" key="CommitChangelistDialog2" timestamp="1599807903250">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="566" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599553470016" />
-    <state x="122" y="56" width="1024" height="570" key="DiffContextDialog" timestamp="1596767661937">
+    <state x="472" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599807903250" />
+    <state x="122" y="56" width="1024" height="570" key="DiffContextDialog" timestamp="1599554086248">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="122" y="56" width="1024" height="570" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1596767661937" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1598407569234">
+    <state x="122" y="56" width="1024" height="570" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1599554086248" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1599807917401">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598407569234" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599807917401" />
     <state width="1237" height="410" key="GridCell.Tab.0.bottom" timestamp="1596780327947">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -238,18 +242,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1596342100439" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1599552576809">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1599554310318">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599552576809" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599554310318" />
     <state x="362" y="82" width="540" height="524" key="StructurePopup" timestamp="1596119632619">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="362" y="82" width="540" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1596119632619" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1599553340734">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1599555276025">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599553340734" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599555276025" />
     <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1596442429819">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -262,18 +266,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="109" y="59" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1596767661937" />
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1599552887023">
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1599807837697">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1599552887023" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1599807837697" />
     <state x="215" y="32" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1596102712223">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="215" y="32" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1280.680@0.0.1280.680" timestamp="1596102712223" />
-    <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596763814402">
+    <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599807988380">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1596763814402" />
+    <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1599807988380" />
     <state x="430" y="132" key="git4idea.merge.GitPullDialog" timestamp="1599552609390">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
